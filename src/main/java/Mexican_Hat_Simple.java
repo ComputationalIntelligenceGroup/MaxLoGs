@@ -79,6 +79,7 @@ public class Mexican_Hat_Simple implements ExtendedPlugInFilter, DialogListener{
 		return;
 	}
 	
+	
     @Override
 	public int showDialog(ImagePlus imp, String command, PlugInFilterRunner pfr) {
 		this.pfr = pfr;

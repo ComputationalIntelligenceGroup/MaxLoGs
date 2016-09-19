@@ -10,7 +10,7 @@ import ij.process.*;
  * @author Gherardo Varando gherardo.varando@gmail.com
  *
 */
-public class Multiscale_Mexican_Hat implements PlugIn {
+public class Max_LoGs implements PlugIn {
 
     private int deep=1,minR=2,maxR=10;
 	private int height,width,nSlices;
